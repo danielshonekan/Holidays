@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Auto test">
+
+    <test name="Hotel test">
+        <classes>
+            <class name="TestCases.OfferSummaryTest" ></class>
+        </classes>
+    </test>
+
+
+</suite>
